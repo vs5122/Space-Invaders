@@ -1,0 +1,4 @@
+([('main',
+   '/Users/visheshshandil/Documents/School Work/Space Invaders - Mac/Space '
+   'Invaders/dist/main',
+   'EXECUTABLE')],)
